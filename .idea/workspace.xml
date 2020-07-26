@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45257d60-0350-4a5c-97a9-16614e19e96b" name="Default Changelist" comment="">
+    <list default="true" id="45257d60-0350-4a5c-97a9-16614e19e96b" name="Default Changelist" comment="one line added">
       <change beforePath="$PROJECT_DIR$/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +33,14 @@
       <option name="presentableId" value="Default" />
       <updated>1595776969374</updated>
     </task>
+    <task id="LOCAL-00001" summary="one line added">
+      <created>1595777474307</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595777474307</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -45,5 +53,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="one line added" />
+    <option name="LAST_COMMIT_MESSAGE" value="one line added" />
   </component>
 </project>
